@@ -1,0 +1,8 @@
+{
+
+    "ROCKETCHAT_USER": "faldo",
+    "ROCKETCHAT_PASSWORD": "faldo",
+    "ROCKETCHAT_URL": "https://botsx.rocket.chat",
+    "ROCKETCHAT_USE_SSL": "true",
+    "ROCKETCHAT_ROOM": "botsplay"
+}
